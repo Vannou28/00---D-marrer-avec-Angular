@@ -1,0 +1,11 @@
+.abc-square{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.abc-square-row{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
